@@ -9,10 +9,10 @@ h1{
     border:5px solid;
     border-radius: 5px;
     text-align: center;
+    opacity: 0.6;
     
 }
 
-}
 .jap{
     color: rgb(255, 0, 0);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -47,4 +47,10 @@ li a {
 li a:hover {
     color: aliceblue;
     text-transform: uppercase;
+}
+.head4{
+    position: absolute;
+}
+.h2{
+    position: sticky;
 }
